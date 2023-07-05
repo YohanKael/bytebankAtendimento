@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9HzNPx+hq8AInXLHQ12WTsr5jvx9XQIe2yXMR7YVKZPOaBwWi6Iag5zytigeeSrJwYwlWYYbeaCJEqHpHiP8Gw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yohan\\source\\repos\\bytebank_atendimento\\bytebank_ATENDIMENTO\\bytebank_ATENDIMENTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yohan\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.18\\microsoft.netcore.app.host.win-x86.6.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

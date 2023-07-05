@@ -1,0 +1,15 @@
+C:\Users\yohan\source\repos\bytebank_atendimento\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.csproj.AssemblyReference.cache
+C:\Users\yohan\source\repos\bytebank_atendimento\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yohan\source\repos\bytebank_atendimento\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.AssemblyInfoInputs.cache
+C:\Users\yohan\source\repos\bytebank_atendimento\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.AssemblyInfo.cs
+C:\Users\yohan\source\repos\bytebank_atendimento\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.csproj.CoreCompileInputs.cache
+C:\Users\yohan\source\repos\bytebank_atendimento\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.exe
+C:\Users\yohan\source\repos\bytebank_atendimento\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.deps.json
+C:\Users\yohan\source\repos\bytebank_atendimento\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.runtimeconfig.json
+C:\Users\yohan\source\repos\bytebank_atendimento\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.dll
+C:\Users\yohan\source\repos\bytebank_atendimento\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.pdb
+C:\Users\yohan\source\repos\bytebank_atendimento\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.dll
+C:\Users\yohan\source\repos\bytebank_atendimento\bytebank_ATENDIMENTO\obj\Debug\net6.0\refint\bytebank_ATENDIMENTO.dll
+C:\Users\yohan\source\repos\bytebank_atendimento\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.pdb
+C:\Users\yohan\source\repos\bytebank_atendimento\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.genruntimeconfig.cache
+C:\Users\yohan\source\repos\bytebank_atendimento\bytebank_ATENDIMENTO\obj\Debug\net6.0\ref\bytebank_ATENDIMENTO.dll
